@@ -1,0 +1,15 @@
+{
+  "name": "practnode",
+  "version": "1.0.0",
+  "description": "Как можно работать с таблицами в MySQL на Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sync-mysql": "^3.0.1"
+  }
+}
